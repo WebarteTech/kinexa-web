@@ -1,2 +1,2 @@
 # kinexa-web
-Sitio de Kinexa - WebArte-Tech (logicore.webartetech.com)
+Sitio de Kinexa - WebArte-Tech (kinexa.webartetech.com)
